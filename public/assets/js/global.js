@@ -334,8 +334,8 @@ $(function () {
 
     $('.page-topbar__menu-icon, .page-main-aside__close').on('click', function (e) {
         e.preventDefault();
-
         let boton = $('.btn-menu-responsive');
+
         let curso_main_menu = $('#page-main-aside');
         curso_main_menu.toggleClass('page-main-aside--open');
 
@@ -354,6 +354,7 @@ $(function () {
             $('.page-control').show();
             boton.removeClass('active');
         }
+
     });
 
 

@@ -35,10 +35,11 @@ html(lang="es")
                             .card-body
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
                                     +navTemaItem('play', 'Introducción', '#introduccion')
-                                    +navTemaItem('1', 'El competidor de hoy', '#tema-1')
-                                    +navTemaItem('2', 'Plataforma estratégica', '#tema-2')
-                                    +navTemaItem('3', 'Sistemas de gestión en la empresa', '#tema-3')
-                                    +navTemaItem('4', 'Comunicación asertiva', '#tema-4')
+                                    +navTemaItem('1', 'Estructura orgánica y funcional', '#tema-1')
+                                    +navTemaItem('2', 'Manual de funciones y competencias laborales', '#tema-2')
+                                    +navTemaItem('3', 'Autodesarrollo', '#tema-3')
+                                    +navTemaItem('4', 'Liderazgo personal', '#tema-4')
+                                    +navTemaItem('5', 'Funciones del líder moderno', '#tema-5')
                                     +navTemaItem('question', 'Actividad didáctica', '#actividad-didactica')
                                     +navTemaItem('glosario', 'Glosario', '#glosario')
                                     +navTemaItem('complementario', 'Material complementario', '#anexos')
@@ -56,6 +57,8 @@ html(lang="es")
                 include pages/tema-3.pug
             #tema-4
                 include pages/tema-4.pug
+            #tema-5
+                include pages/tema-5.pug
 
             #actividad-didactica
                 include pages/actividad-1.pug
