@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="121" viewBox="0 0 121 121">
+  <g id="Grupo_10037" data-name="Grupo 10037" transform="translate(-145 -2293)">
+    <g id="Grupo_10010" data-name="Grupo 10010" transform="translate(2406 6200)">
+      <circle id="Elipse_497" data-name="Elipse 497" cx="60.5" cy="60.5" r="60.5" transform="translate(-2261 -3907)" fill="#7cb342"/>
+      <path id="Trazado_1178" data-name="Trazado 1178" d="M53.993,0A53.993,53.993,0,1,1,0,53.993,53.993,53.993,0,0,1,53.993,0Z" transform="translate(-2254 -3900)" fill="#fff"/>
+    </g>
+    <g id="Grupo_10021" data-name="Grupo 10021" transform="translate(184 2329)">
+      <path id="Trazado_1597" data-name="Trazado 1597" d="M139.173,469.03V437.376H95.986v49.432h24.932C129.113,486.808,139.173,476.271,139.173,469.03Z" transform="translate(-95.986 -437.376)" fill="#002b45" fill-rule="evenodd"/>
+      <path id="Trazado_1598" data-name="Trazado 1598" d="M101.862,483.058V443.252h33.561v26.364c0,7.718-9.583,4.335-9.583,4.335C128.923,486.841,119.022,482.286,101.862,483.058Z" transform="translate(-97.049 -438.439)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Trazado_1599" data-name="Trazado 1599" d="M131.23,474.014H107.685V470.2H131.23Z" transform="translate(-98.103 -443.315)" fill="#7cb342" fill-rule="evenodd"/>
+      <path id="Trazado_1600" data-name="Trazado 1600" d="M131.23,464.167H107.685v-3.339H131.23Z" transform="translate(-98.103 -441.619)" fill="#7cb342" fill-rule="evenodd"/>
+      <path id="Trazado_1601" data-name="Trazado 1601" d="M131.23,454.691H107.685v-3.815H131.23Z" transform="translate(-98.103 -439.819)" fill="#7cb342" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
